@@ -7,10 +7,6 @@ body {
     align-items: center;
     min-height: 100vh;
     background: linear-gradient(135deg, #4A89DC, #C2185B);
-    background-image: url('cheesedog.jpg'); /* Replace 'your-image.jpg' */
-    background-size: cover; /* Cover the entire viewport */
-    background-repeat: no-repeat; /* Prevent image repetition */
-    background-position: center; /* Center the image */
 }
 
 .login-container {
